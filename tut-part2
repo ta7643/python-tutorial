@@ -1,0 +1,45 @@
+# Part2 - python tutorial by LBE
+
+1. File I/O
+	-read
+	-write
+	-append
+	
+2. Database access and SQL-Basics
+	-libs
+	-connect
+	-create / drop table
+	-read / run through all rows
+	-insert, update, delete
+
+3. Regular expressions
+	-PERL like regular expressions
+	-match / search
+	-replace
+
+3. Multithreading
+	-threads
+	-synchoniying
+	-queuing
+
+4. Networking
+	-sockets
+	-client / server
+	-methods
+	-network modules (HTTP, urllib, ...)
+
+5. Sending E-Mails
+	-smtplib (network module)
+
+6. CGI
+	-overview
+	-apache enable cgi
+
+6. Sending E-Mails
+	-mail server
+	-send
+	-send HTML
+	-send attachment
+
+
+
