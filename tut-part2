@@ -35,11 +35,5 @@
 	-overview
 	-apache enable cgi
 
-6. Sending E-Mails
-	-mail server
-	-send
-	-send HTML
-	-send attachment
-
 
 
